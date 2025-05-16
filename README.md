@@ -76,7 +76,3 @@ Veritabanı verileri volume’larda saklanır:
 * `adminer` arayüzü üzerinden PostgreSQL ve MySQL’e bağlanabilirsin.
 * `mongo-express` ile MongoDB veritabanlarını görüntüleyebilirsin.
 * Portlar çakışıyorsa kendi ihtiyaçlarına göre `docker-compose.yml` dosyasını düzenleyebilirsin.
-
-## 📜 Lisans
-
-Bu proje kişisel kullanım ve geliştirme amaçlıdır. Dilersen özgürce çatallayabilir ve geliştirebilirsin.
